@@ -10,7 +10,7 @@ Blesseth McDonald*, Elena G. Olson†, Pheron Collie*, Gabriela K. Betancourt-Ba
 #Reveam, Inc. Norcross, Georgia 30071
 
   1. Metadata and Fastq files from the manuscript titled "Impact of Electron-Beam Dose on Microbial Diversity and Succession Dynamics in Refrigerated Poultry During Extended Storage"
-  2. Sequenced on an Ilumina Miseq targeting the V4 region. Please refer to manuscript for more detailed methodology.
+  2. Sequenced on an Ilumina Miseq targeting the V4 region (To view: change from main branch to master branch). Please refer to manuscript for more detailed methodology.
   3. Both forward and reverse reads are located within folder.
 
 
